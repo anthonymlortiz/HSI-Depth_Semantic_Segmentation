@@ -1,0 +1,8 @@
+Legend:	
+Shadow:	0 Black
+Trees:	1 Yellow
+Grass:	2 Green
+Water:	3 Blue
+Building: 4 Red
+asfalt:	5 White
+Background: 6 Cyan
