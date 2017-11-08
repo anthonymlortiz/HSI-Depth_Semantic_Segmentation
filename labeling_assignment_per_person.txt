@@ -1,4 +1,0 @@
-Alonso: Rows 1-298 ---- Columns 1-816
-Michel: Rows 299-595 ---- Columns 1-816
-Zachary: Rows 1-298 ---- Columns 817-1633
-Anthony: Rows 299-595 ---- Columns 817-1633
