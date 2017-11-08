@@ -1,9 +1,0 @@
-Python libraries we will need so far:
-
-tensorflow
-h5py
-numpy
-pandas
-sklearn
-PIL
-OpenCV
